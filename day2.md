@@ -1,5 +1,4 @@
 ### 一、构造/析构顺序测试代码（constructor_destructor.cpp）
-这份代码包含基类/派生类、成员对象、静态对象，能清晰展示构造/析构的完整顺序：
 
 ```cpp
 #include <iostream>
